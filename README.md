@@ -1,5 +1,5 @@
 # CERTIFICADOS
-  <h4> 🏛️ ESCOLA DNC </h4>
+  <h3> 🏛️ ESCOLA DNC </h3>
   <hr align="right" width="50%">
   <h5> > Desenvolvedor Full-Stack 📗</h5>
   <ul>
@@ -8,7 +8,7 @@
 <!--     <a href=""><li></li></a> -->
   </ul>
   <br>
-  <h4>🏛️ SENAI </h4>
+  <h3>🏛️ SENAI </h3>
   <hr align="right" width="50%">
   <h5> > Desenvolvedor Front-End 📗</h5>
   <ul>
@@ -16,7 +16,7 @@
 <!--     <a href=""><li></li></a> -->
   </ul>
   <br>
-  <h4>🏛️ DIO (Digital Innovation One)</h4>
+  <h3>🏛️ DIO (Digital Innovation One)</h3>
   <hr align="right" width="50%">
   <h5> > Front-End com ANGULAR 📗</h5>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/DIO-Desenvolvimento_Frontend_com_Angular.pdf">Desenvolvimento Front-End com Angular</a>
