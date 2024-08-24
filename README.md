@@ -1,7 +1,7 @@
 # CERTIFICADOS
   <h3> 🏛️ ESCOLA DNC </h3>
   <hr align="right" width="50%">
-  <h5> > Desenvolvedor Full-Stack 📗</h5>
+  <h4> > Desenvolvedor Full-Stack 📗</h4>
   <ul>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dnc-Introdução_ao_Desenvolvimento_Web.pdf"><li>Introdução ao Desenvolvimento Web</li></a>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dnc-Desenvolvimento_Web_com_HTML_e_CSS.pdf"><li>Desenvolvimento Web com HTML e CSS</li></a>
@@ -10,7 +10,7 @@
   <br>
   <h3>🏛️ SENAI </h3>
   <hr align="right" width="50%">
-  <h5> > Desenvolvedor Front-End 📗</h5>
+  <h4> > Desenvolvedor Front-End 📗</h4>
   <ul>
     <a href="https://github.com/judah-lopes/certificados/blob/main/senai-Front_End.pdf"><li>Desenvolvedor Front-End</li></a>
 <!--     <a href=""><li></li></a> -->
@@ -18,7 +18,7 @@
   <br>
   <h3>🏛️ DIO (Digital Innovation One)</h3>
   <hr align="right" width="50%">
-  <h5> > Front-End com ANGULAR 📗</h5>
+  <h4> > Front-End com ANGULAR 📗</h4>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/DIO-Desenvolvimento_Frontend_com_Angular.pdf">Desenvolvimento Front-End com Angular</a>
   <ul>
 <!--     <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Versionamento_de_Código_com_Git_e_GitHub.pdf"><li>Versionamento de Código com Git e GitHub</li></a>
@@ -40,7 +40,7 @@
 <!--     <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/DIO-Explorando_o_Angular_Framework.pdf"><li>Explorando o Angular Framework</li></a> -->
   </ul>
 
-<h5> > Python com Data Analytics 📗</h5>
+<h4> > Python com Data Analytics 📗</h4>
 <ul>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Conhecendo_a_Linguagem_de_Programação_Python.pdf"><li>Conhecendo a Linguagem de Programação Python</li></a>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Tipos_de_Operadores_com_Python.pdf"><li>Tipos de Operadores</li></a>
